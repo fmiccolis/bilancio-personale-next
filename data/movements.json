@@ -1,0 +1,33 @@
+[
+  {
+    "id": 0,
+    "data": "01/12/2020",
+    "importo": 5.99,
+    "descrizione": "ricarica",
+    "categoriaId": 10,
+    "tipologiaId": 1,
+    "sorgente": 0,
+    "destinazione": -1,
+    "codice": "pxunhqlc"
+  }, {
+    "id": 1,
+    "data": "02/12/2020",
+    "importo": 4.7,
+    "descrizione": "lasagne",
+    "categoriaId": 3,
+    "tipologiaId": 1,
+    "sorgente": -1,
+    "destinazione": -1,
+    "codice": "UuXdGvtK"
+  }, {
+    "id": 2,
+    "data": "07/12/2020",
+    "importo": 75,
+    "descrizione": "affitto ufficio",
+    "categoriaId": 7,
+    "tipologiaId": 1,
+    "sorgente": -1,
+    "destinazione": -1,
+    "codice": "OovBsWXj"
+  }
+]
